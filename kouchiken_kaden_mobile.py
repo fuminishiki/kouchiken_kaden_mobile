@@ -24,9 +24,6 @@ m
 folium.Marker(location=[33.4966585,133.4355591],popup='ヤマダデンキ テックランド高知土佐店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[32.9281193,132.7035299],popup='ヤマダデンキ テックランド宿毛店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[33.5616904,133.5988045],popup='ヤマダデンキ Tecc LIFE SELECT 高知本店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
